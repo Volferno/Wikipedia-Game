@@ -1,0 +1,15 @@
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\bin\Debug\WikiPedia Game.exe.config
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\bin\Debug\WikiPedia Game.exe
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\bin\Debug\WikiPedia Game.pdb
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\WikiPedia Game.csprojAssemblyReference.cache
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\MainWindow.g.cs
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\App.g.cs
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\WikiPedia Game_MarkupCompile.cache
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\WikiPedia Game_MarkupCompile.lref
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\MainWindow.baml
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\WikiPedia Game.g.resources
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\WikiPedia_Game.Properties.Resources.resources
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\WikiPedia Game.csproj.GenerateResource.cache
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\WikiPedia Game.csproj.CoreCompileInputs.cache
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\WikiPedia Game.exe
+C:\Users\north\source\repos\WikiPedia Game\WikiPedia Game\obj\Debug\WikiPedia Game.pdb
